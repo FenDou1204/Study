@@ -1,0 +1,984 @@
+
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_head1"><meta http-equiv='Content-Type' content='text/html; charset=gb2312' /><meta name='description' content='【携程旅行网】为您提供G2次列车查询, 上海虹桥到北京南G2火车时刻表及火车票网上订票,G2晚点查询,上海虹桥火车晚点查询, 北京南火车晚点查询。' /><meta name='keywords' content='G2次列车,上海虹桥到北京南火车时刻表,G2晚点查询,上海虹桥火车晚点查询,北京南火车晚点查询' /><link rel="canonical" href="http://trains.ctrip.com/TrainSchedule/G2/"/><link href='http://webresource.ctrip.com/styles/common/cui110425.css?releaseno=2018_2_7_18_54_51.css' type='text/css' rel='stylesheet' /><link href='http://webresource.ctrip.com/ResTrainOnline/R2/TrainBooking/CSS/pub_railway.css?releaseno=2018_2_7_18_54_51.css' type='text/css' rel='stylesheet' /><script src='http://webresource.ctrip.com/code/js/tuna_090501.js?releaseno=2018_2_7_18_54_51.js' type='text/javascript'></script><script src='http://webresource.ctrip.com/ResTrainOnline/R2/TrainBooking/JS/private_railway_schedule.js?releaseno=2018_2_7_18_54_51.js' type='text/javascript'></script><script src='http://webresource.ctrip.com/ResTrainOnline/R2/TrainBooking/JS/tooldatas.js?releaseno=2018_2_7_18_54_51.js' type='text/javascript'></script><script src='http://webresource.ctrip.com/ResTrainOnline/R2/TrainBooking/JS/ui2_general.js?releaseno=2018_2_7_18_54_51.js' type='text/javascript'></script><title>
+	G2次列车_上海虹桥到北京南火车时刻表晚点查询【携程列车时刻】
+</title></head>
+<body id='mainbody'>
+    <input type="hidden" id="CorrelationId" name="CorrelationId" value="8227600988045770093"/><link href="//webresource.c-ctrip.com/ResCRMOnline/R1/pageheader/css/PageHeader_v2.css?temp=1518078399" rel="stylesheet" /><div class="cui_hd_cont">
+  <div id="cui_hd" class="cui_hd train_hd"><input type="hidden" id="_searchboxNo_" value="ws_www20140409"><input type="hidden" id="_newHeaderFlag_" value="true"><div class="ctriplogo"><a title="携程旅行网" href="http://www.ctrip.com">携程旅行网</a></div>
+    <div class="nav-bar">
+      <ul class="language">
+        <li><a href="http://www.ctrip.com/" rel="nofollow" class="selected" id="cui_lang_cn" onmouseover="this.className= 'selected language_current';document.getElementById('cui_lang_list').parentNode.style.display='block';" onmouseout="this.className= 'selected';document.getElementById('cui_lang_list').parentNode.style.display='none';"><span><em class="ico-global"></em>Language<b class="arrow"></b></span></a><div class="language_wrap drowndrop" style="display: none;" onmouseover="document.getElementById('cui_lang_cn').className= 'selected language_current';this.style.display='block';" onmouseout="document.getElementById('cui_lang_cn').className= 'selected';this.style.display='none';">
+            <ul class="language_list" id="cui_lang_list">
+              <li class="active"><a id="ctrip_cn" class="language_big5" href="//www.ctrip.com">简体中文</a></li>
+              <li><a id="ctrip_hk" class="language_hk" href="http://hk.trip.com/?locale=zh_hk">繁體中文 (香港)</a></li>
+              <li><a id="ctrip_eng" class="language_en" href="https://www.trip.com/?locale=en_US">English (United States)</a></li>
+              <li><a id="ctrip_hk_en" class="language_hk" href="https://hk.trip.com/?locale=en_hk">English(Hong Kong)</a></li>
+              <li><a id="ctrip_korea" class="language_korea" href="https://kr.trip.com/?locale=ko_KR">韩语版</a></li>
+              <li><a id="ctrip_jap" class="language_jap" href="https://jp.trip.com/?locale=ja_JP">日语版</a></li>
+              <li><a id="ctrip_sg" class="language_sg" href="https://sg.trip.com/?locale=en_SG">English (Singapore)</a></li>
+              <li><a id="ctrip_au" class="language_au" href="https://au.trip.com/?locale=en_au">English (Australia)</a></li>
+              <li><a id="ctrip_de" class="language_de" href="https://de.trip.com/?locale=de_DE">Deutsch</a></li>
+              <li><a id="ctrip_fr" class="language_fr" href="https://fr.trip.com/?locale=fr_FR">Fran&#xE7;ais</a></li>
+              <li><a id="ctrip_es" class="language_es" href="https://es.trip.com/?locale=es_ES">Espa&#xF1;ol</a></li>
+              <li class="last"><a id="ctrip_ru" class="language_ru" href="https://ru.trip.com/?locale=ru_RU">Русский</a></li>
+              <li><a id="ctrip_id" class="language_id" href="https://id.trip.com/?locale=id_ID">Bahasa Indonesia</a></li>
+              <li><a id="ctrip_my" class="language_my" href="https://my.trip.com/?locale=ms_MY">Bahasa Malaysia</a></li>
+              <li><a id="ctrip_th" class="language_th" href="https://th.trip.com/?locale=th_TH">泰国站</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+      <ul class="cui_service">
+        <li><a href="http://livechat.ctrip.com/livechat/TrainChat.aspx?GroupCode=train&amp;version=3.1&amp;origin=1121&amp;orderid=&amp;case=-1&amp;platform=2&amp;qid=&amp;at=3" title="客服中心">客服中心</a></li>
+      </ul>
+      <ul class="cui_service service_1180">
+        <li id="cui_service_cn"><em class="service_telnum">021-22268888<i class="time">（7:00-23:00）</i></em></li>
+      </ul>
+      <ul class="cui_wireless" id="head_float_level">
+        <li><a href="http://app.ctrip.com" class="wireless wireless_link" target="_blank" rel="nofollow" id="linkid"><i class="cui_ico_app"></i></a><div id="head_float_box_app" class="cui_wireless_box" style="display: none;"><i class="cui_ico_chatarrow" style="right:40px;"></i><div class="cui_wireless_inbox">
+              <dl class="cui_wireless_type">
+                <dt>手机扫码快速下载</dt>
+                <dd><img src="//pic.c-ctrip.com/platform/online/home/er_ctrip_app.jpg" alt=""></dd>
+              </dl><a href="http://app.ctrip.com" class="cui_link_app">携程旅行手机版<i>&gt;</i></a></div>
+          </div>
+        </li>
+        <li><a href="##" class="wireless wireless_nolink" id="nolinkid"><i class="cui_ico_wechat"></i></a><div id="head_float_box_weixin" class="cui_wireless_box" style="display: none;"><i class="cui_ico_chatarrow"></i><div class="cui_wireless_inbox">
+              <dl class="cui_wireless_type">
+                <dt>携程订阅号:helloctrip</dt>
+                <dd><img src="//pic.c-ctrip.com/platform/online/home/er_ctrip_wechat.jpg" alt=""></dd>
+              </dl>扫一扫,领旅行福利</div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="cui_nav">
+  <div class="base_nav">
+    <ul id="cui_nav_ul" class="cui_nav cui_content">
+      <li id="cui_c_ph_hp"><a id="c_ph_hp" class="cui_nav_non" href="http://www.ctrip.com/">首页</a></li>
+      <li class="divider "></li>
+      <li id="cui_nav_hotel"><a id="nav_hotel" class="cui_nav_has" href="http://hotels.ctrip.com/">酒店<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_hotel" class="cui_sub_nav">
+            <li id="ul_c_ph_hotel_h"><a id="c_ph_hotel_h" href="http://hotels.ctrip.com/">国内酒店</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_hoteli_h"><a id="c_ph_hoteli_h" href="http://hotels.ctrip.com/international/">海外酒店</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_apartment_h"><a id="c_ph_apartment_h" href="http://hotels.ctrip.com/apartment">海外民宿+短租</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_tuan_h"><a id="c_ph_tuan_h" href="http://tuan.ctrip.com">团购</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_hotsale_h"><a id="c_ph_hotsale_h" href="http://hotels.ctrip.com/hotsale">特价酒店</a></li>
+            <li class="divider " style="display:none"></li>
+            <li id="ul_c_ph_tujia_h"><a id="c_ph_tujia_h" style="display:none" rel="nofollow" href="http://hotels.ctrip.com/tujia/">途家公寓</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_taocanj_h"><a id="c_ph_taocanj_h" href="http://taocan.ctrip.com/sh/HotelDefault.aspx?fluxentrance=10405&amp;FromMenu=hotel">酒店+景点</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_inn_h"><a id="c_ph_inn_h" href="http://inn.ctrip.com">客栈民宿</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_meetingroom_h"><a id="c_ph_meetingroom_h" href="http://meeting.ctrip.com/?channel=0#ctm_ref=mtg_meetingroom_2dh">团队房&#x2022;长住房</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_meeting_h"><a id="c_ph_meeting_h" href="http://meeting.ctrip.com/?channel=1#ctm_ref=mtg_meeting_2dh">会议</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotel"></i>酒店订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_vac"><a id="nav_vac" class="cui_nav_has" href="http://vacations.ctrip.com/">旅游<span class="label-cn" id="ACT_Label_59" style="display:none"><em>红包出没</em><i class="triangle"></i></span><i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_vac" class="cui_sub_nav">
+            <li id="ul_c_ph_vacations_v"><a id="c_ph_vacations_v" href="http://vacations.ctrip.com/">旅游首页<span class="label-cn" id="ACT_Label_66" style="display:none"><em>情人节</em><i class="triangle"></i></span></a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_around_v"><a id="c_ph_around_v" href="http://weekend.ctrip.com/around/">周末游</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_vacationsd_v"><a id="c_ph_vacationsd_v" href="http://vacations.ctrip.com/grouptravel/">跟团游</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_taocan_v"><a id="c_ph_taocan_v" href="http://taocan.ctrip.com/">自由行</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_cruise_v"><a id="c_ph_cruise_v" href="http://cruise.ctrip.com/">邮轮</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_taocanj_v"><a id="c_ph_taocanj_v" href="http://taocan.ctrip.com/sh/">酒店+景点</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_huodong_v"><a id="c_ph_huodong_v" href="http://huodong.ctrip.com/">当地玩乐</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_zhutiyou_v"><a id="c_ph_zhutiyou_v" href="http://vacations.ctrip.com/themetravel/">主题游<span class="label-en" id="ACT_Label_21" style="display:none"><em>HOT</em><i class="triangle"></i></span></a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_baotuan_v"><a id="c_ph_baotuan_v" href="http://vacations.ctrip.com/dingzhi">定制旅行</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_youxue_v"><a id="c_ph_youxue_v" href="http://vacations.ctrip.com/youxue">游学</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_visa_v"><a id="c_ph_visa_v" href="http://vacations.ctrip.com/visa">签证</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_mice_v"><a id="c_ph_mice_v" href="http://mice.ctrip.com">企业会奖</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_hh_v"><a id="c_ph_hh_v" target="_blank" rel="nofollow" href="http://www.hhtravel.com/#ctm_ref=hh_ct_thp_nav">高端游</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_golf_v"><a id="c_ph_golf_v" href="http://fun.iwanoutdoor.com/">爱玩户外</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_insurance_v"><a id="c_ph_insurance_v" href="http://vacations.ctrip.com/insurance">保险</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_deals_v"><a id="c_ph_deals_v" href="http://vacations.ctrip.com/deals">特卖汇</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/PkgOrderList.aspx"><i class="cui-icon-vacations"></i>旅游订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_flight"><a id="nav_flight" class="cui_nav_has" href="http://flights.ctrip.com/">机票<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_flight" class="cui_sub_nav">
+            <li id="ul_c_ph_flights_f"><a id="c_ph_flights_f" href="http://flights.ctrip.com">国内机票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_flightsi_f"><a id="c_ph_flightsi_f" href="http://flights.ctrip.com/international/">国际/地区机票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_fuzzy_f"><a id="c_ph_fuzzy_f" href="https://flights.ctrip.com/fuzzy/#ctm_ref=ctr_nav_flt_fz_pgs">特价机票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_taocan_f"><a id="c_ph_taocan_f" href="http://taocan.ctrip.com">机+酒</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_flightstoolbox_f"><a id="c_ph_flightstoolbox_f" href="http://flights.ctrip.com/actualtime">航班动态</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_bookseat_f"><a id="c_ph_bookseat_f" rel="nofollow" href="http://flights.ctrip.com/domestic/checkinseat/index">值机选座</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_flightorderlist_f"><a id="c_ph_flightorderlist_f" rel="nofollow" href="http://my.ctrip.com/Home/Order/FlightOrderList.aspx">退票改签</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_airportguides_f"><a id="c_ph_airportguides_f" rel="nofollow" href="http://flights.ctrip.com/booking/airport-guides.html">机场攻略</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_airbus_f"><a id="c_ph_airbus_f" href="http://airbus.ctrip.com/#ctm_ref=arb_hp_flt_nang">机场巴士</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_gwytd_f"><a id="c_ph_gwytd_f" href="http://flights.ctrip.com/Domestic/Civs">公务员通道</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/FlightOrderList.aspx"><i class="cui-icon-flight"></i>机票订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_trains" class="cui_nav_current"><a id="nav_trains" class="cui_nav_has" href="http://trains.ctrip.com">火车<span class="label-cn" id="ACT_Label_65" style="display:none"><em>春运抢票</em><i class="triangle"></i></span><i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_trains" class="cui_sub_nav">
+            <li id="ul_c_ph_train_t"><a id="c_ph_train_t" class="cui_sub_current" href="http://trains.ctrip.com">国内火车票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_traino_t"><a id="c_ph_traino_t" href="http://rails.ctrip.com">国际&#x2022;港台火车票</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/RailwayOrderList.aspx"><i class="cui-icon-train"></i>火车票订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_destination"><a id="nav_destination" class="cui_nav_has" href="http://bus.ctrip.com/">汽车票<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_destination" class="cui_sub_nav">
+            <li id="ul_c_ph_bus_t"><a id="c_ph_bus_t" href="http://bus.ctrip.com/">汽车票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_airbus_t"><a id="c_ph_airbus_t" href="http://airbus.ctrip.com/#ctm_ref=arb_hp_bus_nang">机场巴士</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_ship_t"><a id="c_ph_ship_t" href="http://bus.ctrip.com/ship/">船票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_yacht_t"><a id="c_ph_yacht_t" target="_blank" rel="nofollow" href="http://yacht.ctrip.com/">游艇帆船</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_daozy_t"><a id="c_ph_daozy_t" href="http://bus.ctrip.com/index.php?param=/hezuo/gongxiang">到站游</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/QicheOrderlist.aspx"><i class="cui-icon-bus"></i>汽车票订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_car"><a id="nav_car" class="cui_nav_has" href="http://car.ctrip.com/#ctm_ref=chp_var_txt">用车<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_car" class="cui_sub_nav">
+            <li id="ul_c_ph_car_c"><a id="c_ph_car_c" href="http://car.ctrip.com/#ctm_ref=chp_var_txt">用车首页</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_hwzj_c"><a id="c_ph_hwzj_c" href="http://car.ctrip.com/hwzijia#ctm_ref=chp_var_txt">境外租车</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_hwdaijia_c"><a id="c_ph_hwdaijia_c" href="http://car.ctrip.com/hwdaijia#ctm_ref=chp_var_txt">境外接送机</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_hwrizu_c"><a id="c_ph_hwrizu_c" href="http://car.ctrip.com/line/index">境外包车</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_zj_c"><a id="c_ph_zj_c" href="http://car.ctrip.com/zijia#ctm_ref=chp_var_txt">国内租车</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_daijia_c"><a id="c_ph_daijia_c" href="http://car.ctrip.com/daijia#ctm_ref=chp_var_txt">国内接送机/火车</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_rizu_c"><a id="c_ph_rizu_c" href="http://car.ctrip.com/idayweb">国内包车</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/CarOrderList.aspx"><i class="cui-icon-car"></i>用车订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_ticket"><a id="nav_ticket" class="cui_nav_has" href="http://piao.ctrip.com/">门票<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_ticket" class="cui_sub_nav">
+            <li id="ul_c_ph_piao_p"><a id="c_ph_piao_p" href="http://piao.ctrip.com/?clear=t#ctm_ref=tkt_home_tab_inland">境内门票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_piaooversea_p"><a id="c_ph_piaooversea_p" href="http://piao.ctrip.com/oversea#ctm_ref=tkt_home_tab_oversea">出境&#x2022;港澳台门票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_huodong_p"><a id="c_ph_huodong_p" href="http://huodong.ctrip.com#ctm_ref=ctr_hp_ttd">当地玩乐</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_wifi_p"><a id="c_ph_wifi_p" href="http://huodong.ctrip.com/wifi#ctm_ref=ctr_hp_wifi">出境WiFi&#x2022;电话卡</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_around_p"><a id="c_ph_around_p" href="http://you.ctrip.com/around#ctm_ref=gs-990123-290801-0-02-M001|0|0">周末游</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_disney_p"><a id="c_ph_disney_p" href="http://pages.c-ctrip.com/ttd/manu/201712/changlong/online/index.html">长隆</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_park_p"><a id="c_ph_park_p" href="http://parking.ctrip.com">机场停车</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/LocalUnionOrderList.aspx"><i class="cui-icon-ticket"></i>门票玩乐订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_tuan"><a id="nav_tuan" class="cui_nav_has" href="http://tuan.ctrip.com">团购<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_tuan" class="cui_sub_nav">
+            <li id="ul_c_ph_tuan_tu"><a id="c_ph_tuan_tu" href="http://tuan.ctrip.com">团购首页</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_tuanhotel_tu"><a id="c_ph_tuanhotel_tu" href="http://tuan.ctrip.com/hotel/">酒店</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_tuanticket_tu"><a id="c_ph_tuanticket_tu" href="http://tuan.ctrip.com/ticket/">门票</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_tuantravel_tu"><a id="c_ph_tuantravel_tu" href="http://tuan.ctrip.com/travel/">旅游</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_tuanlife_tu"><a id="c_ph_tuanlife_tu" href="http://tuan.ctrip.com/life/">美食</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/GroupOrderList.aspx"><i class="cui-icon-tuan"></i>团购订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_c_ph_you"><a id="c_ph_you" class="cui_nav_non" href="http://you.ctrip.com/">攻略</a></li>
+      <li class="divider "></li>
+      <li id="cui_nav_g"><a id="nav_g" class="cui_nav_has" href="http://g.ctrip.com/">全球购<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_g" class="cui_sub_nav">
+            <li id="ul_c_ph_mdg_g"><a id="c_ph_mdg_g" href="http://g.ctrip.com/">名店购</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_ts_g"><a id="c_ph_ts_g" href="http://tax.ctrip.com/?bid=2&amp;cid=1&amp;pid=1">退税</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_ylth_g"><a id="c_ph_ylth_g" href="http://g.ctrip.com/gsmarketingactive/unionpay?ctm_ref=M_gw_3home_paypal_cl">银联特惠</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_skjl_g"><a id="c_ph_skjl_g" href="http://card.ctrip.com/#ctm_ref=ctr_bid_0_cid_1_pid_1">万千赏</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_forex_g"><a id="c_ph_forex_g" href="http://forex.ctrip.com/?bid=62&amp;1=1">外币兑换</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://forex.ctrip.com/order/list/"><i class="cui-icon-foreign"></i>外币兑换订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_lpk"><a id="nav_lpk" class="cui_nav_has" href="http://lipin.ctrip.com">礼品卡<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_lpk" class="cui_sub_nav">
+            <li id="ul_c_ph_lipin_l"><a id="c_ph_lipin_l" href="http://lipin.ctrip.com">礼品卡首页</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_xcb_l"><a id="c_ph_xcb_l" href="http://lipin.ctrip.com/xcb">礼品卡福袋</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_ckzm_l"><a id="c_ph_ckzm_l" href="http://jr.ctrip.com/deposit/deposit/index">存款证明</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_dhq_l"><a id="c_ph_dhq_l" href="http://lipin.ctrip.com/voucher">兑换券</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_forexlipin_l"><a id="c_ph_forexlipin_l" href="http://forex.ctrip.com/?bid=12&amp;1=1">外币兑换</a></li>
+          </ul><a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/TicketOrderList.aspx"><i class="cui-icon-card"></i>礼品卡订单 &gt;</a></div>
+      </li>
+      <li class="divider "></li>
+      <li id="cui_nav_sl"><a id="nav_sl" class="cui_nav_has" href="http://ct.ctrip.com/#ctm_ref=xcct">商旅<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_sl" class="cui_sub_nav">
+            <li id="ul_c_ph_slsy_s"><a id="c_ph_slsy_s" href="http://ct.ctrip.com/#ctm_ref=xcct">商旅首页</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_chl_s"><a id="c_ph_chl_s" href="http://ct.ctrip.com/crptravel/default/landing#ctm_ref=xcpt">企业差旅平台</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_hj_s"><a id="c_ph_hj_s" href="http://mice.ctrip.com">会议旅游</a></li>
+          </ul>
+        </div>
+      </li>
+      <li class="divider divider_spec"></li>
+      <li id="cui_nav_cruise"><a id="nav_cruise" class="cui_nav_non" DividerClass="divider_spec" href="http://cruise.ctrip.com">邮轮</a></li>
+      <li class="divider divider_spec"></li>
+      <li id="cui_nav_cruise_skysea"><a id="nav_cruise_skysea" class="cui_nav_non" DividerClass="divider_spec" href="http://cruise.ctrip.com/skysea">天海邮轮</a></li>
+      <li class="divider "></li>
+      <li id="cui_nav_more"><a id="nav_more" class="cui_nav_has" rel="nofollow" href="http://mall.ctrip.com">更多<i class="cui_ico_triangle"></i><span class="point"></span></a><div class="cui_subnav_wrap">
+          <ul id="ul_nav_more" class="cui_sub_nav">
+            <li id="ul_c_ph_ypsc_m"><a id="c_ph_ypsc_m" href="http://mall.ctrip.com">优品商城</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_sjhy_m"><a id="c_ph_sjhy_m" href="http://pages.ctrip.com/marketing/2017/07/svip/index.html?pushcode=act_svip_pc33&amp;qrcode=act_svip_pc37">超级会员</a></li>
+            <li class="divider "></li>
+            <li id="ul_c_ph_cards_m"><a id="c_ph_cards_m" rel="nofollow" href="http://cards.ctrip.com">合作卡</a></li>
+          </ul>
+        </div>
+      </li>
+      <li id="loginDivLi" class="cui_nav_myctrip cui_content">
+        <ul class="cui_myctrip_log" style="display:block;" id="ulCTFullMC">
+          <li class="userLogin" id="div_User"></li>
+          <li class="myctrip" style="margin-top:0;"><span id="div_MyCtrip"></span><ul class="cui_account cui_account_login" id="loginDiv" style="display:none;">
+              <li>
+                <div id="div_Loginbtn"></div>
+              </li>
+              <li class="cui_account_info"><a rel="nofollow" href="http://my.ctrip.com/home/Order/AllOrder.aspx#ctm_ref=ssc_hp_myctrip_allorders_a">全部订单</a></li>
+              <li class="divider"></li>
+              <li class="account_order">
+                <ul>
+                  <li><a rel="nofollow" href="http://my.ctrip.com/Home/Order/FlightOrderList.aspx#ctm_ref=ssc_hp_myctrip_flightorders_a">机票+相关订单</a></li>
+                  <li><a rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx#ctm_ref=ssc_hp_myctrip_hotelorders_a">酒店订单</a></li>
+                  <li><a rel="nofollow" href="http://my.ctrip.com/Home/Order/PkgOrderList.aspx#ctm_ref=ssc_hp_myctrip_tourorders_a">旅游订单</a></li>
+                  <li><a rel="nofollow" href="http://my.ctrip.com/Home/Order/RailwayOrderList.aspx#ctm_ref=ssc_hp_myctrip_trainorders_a">火车票订单</a></li>
+                  <li><a rel="nofollow" class="gray" href="https://accounts.ctrip.com/member/FastOrder/OrderSearch.aspx#ctm_ref=ssc_hp_myctrip_phoneorders_a">手机号查订单</a></li>
+                </ul>
+              </li>
+              <li class="divider"></li>
+              <li><a rel="nofollow" href="https://secure.ctrip.com/webwallet/index#ctm_ref=ssc_hp_myctrip_wallet_a">携程钱包</a></li>
+              <li><a rel="nofollow" href="http://my.ctrip.com/FavoriteOnline/hotel/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a">收藏</a></li>
+              <li><a rel="nofollow" href="https://smarket.ctrip.com/Promocode/zh-cn/Promocode.aspx#ctm_ref=ssc_hp_myctrip_integral_a">票券与积分</a></li>
+              <li><a rel="nofollow" href="http://my.ctrip.com/Home/Passenger/PassengerList.aspx#ctm_ref=ssc_hp_myctrip_info_a">常用信息</a></li>
+            </ul>
+          </li>
+          <li class="message" id="div_MyCTMessages"></li>
+        </ul>
+        <ul class="cui_myctrip_log" style="display:none;" id="ulCTMinMC">
+          <li class="userLogin" id="div_User"></li>
+          <li class="myctrip" style="margin-top:0;clear:left;"><span id="div_MyCtrip"></span><ul class="cui_account cui_account_login" id="loginDiv" style="display:none;">
+              <li>
+                <div id="div_Loginbtn"></div>
+              </li>
+              <li class="cui_account_info"><a rel="nofollow" href="http://my.ctrip.com/home/Order/AllOrder.aspx#ctm_ref=ssc_hp_myctrip_allorders_a">全部订单</a></li>
+              <li><a rel="nofollow" class="gray" href="https://accounts.ctrip.com/member/FastOrder/OrderSearch.aspx#ctm_ref=ssc_hp_myctrip_phoneorders_a">手机号查订单</a></li>
+            </ul>
+          </li>
+          <li class="message" id="div_MyCTMessages"></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div id="nav_bh" class="cui_nav_behind" style="display:none;height:0px;"></div>
+</div>
+<div id="ActConfig_ID" style="display:none">[{"id":"1","onlinetime":"2016/07/01 00:00:00$2016/08/01 00:00:00"},{"id":"3","onlinetime":"2016/04/12 00:00:00$2016/07/01 00:00:00"},{"id":"4","onlinetime":"2016/04/12 00:00:00$2016/07/01 00:00:00"},{"id":"5","onlinetime":"2016/06/01 00:00:00$2016/06/26 00:00:00"},{"id":"6","onlinetime":"2016/04/12 00:00:00$2016/07/01 00:00:00"},{"id":"7","onlinetime":"2016/06/26 00:00:00$2016/07/18 00:00:00"},{"id":"8","onlinetime":"2016/07/18 00:00:00$2016/08/09 00:00:00"},{"id":"9","onlinetime":"2016/06/17 00:00:00$2016/08/31 00:00:00"},{"id":"12","onlinetime":"2016/07/06 00:00:00$2016/08/06 00:00:00"},{"id":"13","onlinetime":"2016/08/09 00:00:00$2016/08/30 23:59:59"},{"id":"14","onlinetime":"2016/07/27 17:30:14$2016/08/27 23:59:59"},{"id":"16","onlinetime":"2016/08/31 00:00:00$2016/09/30 23:59:59"},{"id":"17","onlinetime":"2016/09/15 00:00:00$2016/09/30 23:59:59"},{"id":"18","onlinetime":"2016/09/05 00:00:00$2016/09/16 23:59:59"},{"id":"19","onlinetime":"2016/09/19 00:00:00$2016/09/23 23:59:59"},{"id":"20","onlinetime":"2016/10/01 00:00:00$2016/10/30 23:59:59"},{"id":"21","onlinetime":"2017/06/23 00:00:00$2099/12/31 23:59:59"},{"id":"22","onlinetime":"2016/09/26 00:00:00$2016/10/26 23:59:59"},{"id":"23","onlinetime":"2016/10/18 00:00:00$2016/10/30 23:59:59"},{"id":"24","onlinetime":"2016/11/01 00:00:00$2016/12/01 23:59:59"},{"id":"25","onlinetime":"2016/11/01 00:00:00$2016/12/01 23:59:59"},{"id":"26","onlinetime":"2016/11/01 00:00:00$2016/11/11 23:59:59"},{"id":"27","onlinetime":"2016/10/18 00:00:00$2016/10/30 23:59:59"},{"id":"28","onlinetime":"2016/12/13 00:00:00$2017/02/20 23:59:59"},{"id":"29","onlinetime":"2016/12/28 17:28:32$2017/01/28 23:59:59"},{"id":"30","onlinetime":"2016/12/01 00:00:00$2016/12/12 23:59:59"},{"id":"31","onlinetime":"2016/12/02 00:00:00$2016/12/12 23:59:59"},{"id":"32","onlinetime":"2016/12/13 17:33:15$2017/01/13 23:59:59"},{"id":"33","onlinetime":"2016/12/22 11:19:01$2017/12/22 11:19:03"},{"id":"34","onlinetime":"2016/12/22 11:19:01$2017/12/22 11:19:03"},{"id":"35","onlinetime":"2017/02/16 14:19:45$2017/03/15 23:59:59"},{"id":"36","onlinetime":"2017/03/17 00:00:00$2017/03/31 23:59:59"},{"id":"37","onlinetime":"2017/03/17 00:00:00$2017/03/31 23:59:59"},{"id":"38","onlinetime":"2017/03/01 00:00:00$2017/04/01 23:59:59"},{"id":"39","onlinetime":"2017/03/01 00:00:00$2017/04/01 22:59:59"},{"id":"40","onlinetime":"2017/04/01 00:00:00$2017/04/21 23:59:59"},{"id":"41","onlinetime":"2017/04/12 00:00:00$2017/05/12 23:59:59"},{"id":"42","onlinetime":"2017/04/22 00:00:00$2017/05/15 23:59:59"},{"id":"43","onlinetime":"2017/04/22 00:00:00$2017/05/15 23:59:59"},{"id":"44","onlinetime":"2017/05/22 00:00:00$2017/06/22 23:59:59"},{"id":"45","onlinetime":"2017/05/22 00:00:00$2017/05/29 23:59:59"},{"id":"46","onlinetime":"2017/06/01 00:00:00$2017/07/01 23:59:59"},{"id":"47","onlinetime":"2017/07/20 00:00:00$2017/08/19 23:59:59"},{"id":"48","onlinetime":"2017/09/01 15:00:00$2017/09/30 15:00:00"},{"id":"49","onlinetime":"2017/10/01 00:00:00$2017/10/19 23:59:59"},{"id":"50","onlinetime":"2017/10/01 00:00:00$2017/10/19 23:59:59"},{"id":"51","onlinetime":"2017/08/18 00:00:00$2017/08/31 23:59:59"},{"id":"52","onlinetime":"2017/08/18 00:00:00$2017/09/18 23:59:59"},{"id":"53","onlinetime":"2017/08/18 00:00:00$2017/09/17 23:59:59"},{"id":"54","onlinetime":"2017/09/01 00:00:00$2017/09/29 23:59:59"},{"id":"55","onlinetime":"2017/11/12 00:00:00$2017/12/12 23:59:59"},{"id":"56","onlinetime":"2017/10/20 00:00:00$2017/11/11 23:59:59"},{"id":"57","onlinetime":"2017/11/02 00:00:00$2017/11/12 00:00:00"},{"id":"58","onlinetime":"2018/03/05 00:00:00$2018/03/15 00:00:00"},{"id":"59","onlinetime":"2018/03/05 00:00:00$2018/03/15 00:00:00"},{"id":"60","onlinetime":"2017/11/27 00:00:00$2017/12/27 23:59:59"},{"id":"61","onlinetime":"2017/11/27 00:00:00$2017/12/27 23:59:59"},{"id":"62","onlinetime":"2018/01/04 15:00:00$2018/01/17 23:59:59"},{"id":"63","onlinetime":"2018/01/18 00:00:00$2018/02/18 23:59:59"},{"id":"64","onlinetime":"2017/12/21 16:01:03$2018/01/21 23:59:59"},{"id":"65","onlinetime":"2018/01/18 15:31:34$2018/02/18 23:59:59"},{"id":"66","onlinetime":"2018/03/05 00:00:00$2018/03/15 00:00:00"},{"id":"67","onlinetime":"2018/03/16 00:00:00$2018/04/08 00:00:00"},{"id":"c_ph_tujia_h","onlinetime":"2018/01/24 18:00:00$2018/12/31 23:59:59"},{"id":"c_ph_lipinplus_l","onlinetime":"2017/04/21 10:38:46$2017/04/28 00:00:00"}]</div><input type="hidden" id="popfloating_isshow" value="0"><input type="hidden" id="siteDomainHeadFloat" value="ctrip"><input type="hidden" id="bsType" value="0"><input type="hidden" id="formatTel" value="[{'formatTelNum':'400-830-6666','prefix':'','sortIndex':'1','standardTelNum':'4008306666','suffix':'(6:00-23:00)'}]"><script>
+;window.replace=function(){return ''};window.replace=function(){return""};
+!function(){window.replace=function(){return""};(function(){var h=document,c=function(a){return h.getElementById(a)},k=null,l=null,m=0,d=[c("cui_nav_hotel"),c("cui_nav_vac"),c("cui_nav_flight"),c("cui_nav_trains"),c("cui_nav_destination"),c("cui_nav_car"),c("cui_nav_ticket"),c("cui_nav_tuan"),c("cui_nav_g"),c("cui_nav_lpk"),c("cui_nav_sl"),c("cui_nav_more")],g={onmouseenter:function(a,b){(h.all?a.onmouseenter=b:a.onmouseover=function(a){(null==a.relatedTarget?b():this!==a.relatedTarget&&20!=this.compareDocumentPosition(a.relatedTarget)&&
+b())})},onmouseout:function(a,b){(h.all?a.onmouseleave=b:a.onmouseout=function(a){(null==a.relatedTarget?b():this!==a.relatedTarget&&20!=this.compareDocumentPosition(a.relatedTarget)&&b())})},addEvent:function(a,b,f){(a.addEventListener?a.addEventListener(b,f,!1):(a.attachEvent?a.attachEvent("on"+b,f):a["on"+b]=f))}},e={setTime:function(){g.onmouseenter(c("cui_nav"),function(){setTimeout(function(){m=150},30)});g.onmouseout(c("cui_nav"),function(){m=0})},initEvent:function(){for(var a=0,b=d.length;b>a;a++)(function(){var b=
+a;g.onmouseenter(d[b],function(){e.interFn(d[b])});g.onmouseout(d[b],function(){e.outerFn(d[b])})})(a)},reset:function(){for(var a=0,b=d.length;b>a;a++)d[a].className=(-1<d[a].className.indexOf("cui_nav_current")?"cui_nav_current":"")},padReset:function(a){for(var b=0,f=d.length;f>b;b++)(-1<d[b].className.indexOf("cui_nav_current")?d[b].className="cui_nav_current":b!==a&&(d[b].className=""))},interFn:function(a){for(var b=document.getElementById("cui_nav").getElementsByTagName("li"),f="",d=0;d<b.length;d++)b[d].className.match((/cui_nav_current/))&&
+(f=b[d]);null!=l&&(clearTimeout(l),l=null);k=setTimeout(function(){e.reset();(-1<a.className.indexOf("cui_nav_current")?f.className="cui_nav_current":(a.className="cui_nav_o",f.className="cui_nav_current cui_nav_unhover"))},m)},outerFn:function(a){for(var b=document.getElementById("cui_nav").getElementsByTagName("li"),d="",c=0;c<b.length;c++)b[c].className.match((/cui_nav_current/))&&(d=b[c]);null!=k&&(clearTimeout(k),k=null);l=setTimeout(function(){e.reset();(-1<a.className.indexOf("cui_nav_current")?
+d.className="cui_nav_current":(a.className="",d.className="cui_nav_current"))},250)},initMobile:function(){for(var a=0,b=d.length;b>a;a++)(function(){var b=a,c=d[b].getElementsByTagName("A")[0];c.href="###";c.onmousedown=function(){e.padReset(b);-1===d[b].className.indexOf("cui_nav_current")&&((-1<d[b].className.indexOf("cui_nav_o")?(d[b].className="",document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current",c.style.visibility="hidden",setTimeout(function(){c.style.visibility=
+"visible"},10)):(d[b].className="cui_nav_o",document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current",document.getElementsByClassName("cui_nav_current")[0].className+=" cui_nav_unhover")))}})(a)},contains:function(a){for(var b=0,c=d.length;c>b;b++)if(0<d[b].compareDocumentPosition(a)-19)return!0;return!1}};c("headStyleId")&&c("headStyleId").parentNode.removeChild(c("headStyleId"));((/ip(hone|od)|ipad/i).test(navigator.userAgent)?(e.initMobile(),g.addEvent(h.body,"click",function(a){e.contains(a.target||
+a.srcElement)||e.reset()})):(e.setTime(),e.initEvent()))})()}();
+</script>
+    <ul id="base_wrapper">
+        <li id="base_bd">
+            <form name="aspnetForm" method="post" action="./?number=G2" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTU3MTcxMDgxD2QWAmYPZBYCAgEPZBYCAgEPZBYKZg9kFgJmDw8WBB4IQ3NzQ2xhc3MFI3NlYXJjaGJveF9zZW8gc2VhcmNoYm94XzIgbGF5b3V0Zml4HgRfIVNCAgJkFgYCAQ8QD2QWAh4Hb25jbGljawUQQ2hhbmdlQ2F0YWxvZygxKWRkZAIDDxAPZBYCHwIFEENoYW5nZUNhdGFsb2coMilkZGQCBQ8QD2QWAh8CBRBDaGFuZ2VDYXRhbG9nKDMpZGRkAgEPZBYeAgEPDxYCHgtOYXZpZ2F0ZVVybAUXaHR0cDovL3RyYWlucy5jdHJpcC5jb21kZAIDDw8WAh8DBSZodHRwOi8vdHJhaW5zLmN0cmlwLmNvbS9UcmFpblNjaGVkdWxlL2RkAgUPDxYEHgRUZXh0BRvkuIrmtbfombnmoaXngavovabml7bliLvooagfAwU3aHR0cDovL3RyYWlucy5jdHJpcC5jb20vVHJhaW5TY2hlZHVsZS9zaGFuZ2hhaWhvbmdxaWFvL2RkAgcPDxYEHwQFHuS4iua1t+iZueahpeeBq+i9puermeaXtuWIu+ihqB8DBTdodHRwOi8vdHJhaW5zLmN0cmlwLmNvbS9UcmFpblNjaGVkdWxlL3NoYW5naGFpaG9uZ3FpYW8vZGQCCQ8WAh8EBQtHMuaXtuWIu+ihqGQCCw8WAh8EBQJHMmQCDQ8WBB4Fc3R5bGUFIXZpc2liaWxpdHk6aGlkZGVuO2Rpc3BsYXk6aW5saW5lOx4JVHJhaW5JbmZvBQQwfEcyZAIPDxYCHwQFAkcyZAIRDw8WBB8EBQzkuIrmtbfombnmoaUfAwU3aHR0cDovL3RyYWlucy5jdHJpcC5jb20vVHJhaW5TY2hlZHVsZS9zaGFuZ2hhaWhvbmdxaWFvL2RkAhMPDxYEHwQFCeWMl+S6rOWNlx8DBTFodHRwOi8vdHJhaW5zLmN0cmlwLmNvbS9UcmFpblNjaGVkdWxlL2JlaWppbmduYW4vZGQCFQ8WAh8EBQUwOTowMGQCFw8WAh8EBQUxMzoyOGQCGQ8WAh8EBQw05bCP5pe2MjjliIZkAhsPFgIfBAWCATxkaXYgY2xhc3M9J2Jhc2VfYnRuczInPjxhIGNsYXNzPSdzdG9wX2EnIGhyZWY9J2h0dHA6Ly90cmFpbnMu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" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D6815D5B" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU+31pq50ZzSvx0QmbzyQmjFG3m/uOPRUb/XFqI8UZckVkLKPgPbVfljStLD1pf8pcB4dRpwdJXm6OhN4n72UnVVrVN1ei1MQQ0kvXSwbc7SyFVC6gWtIDewKhG+wQW536TOcMG" />
+</div>
+            
+    <div id="ctl00_MainContentPlaceHolder_ucSearch_pnlSearchBox" class="searchbox_seo searchbox_2 layoutfix">
+	
+    <div class="layoutfix" id="searchBox">
+        <label class="base_label"><input id="ctl00_MainContentPlaceHolder_ucSearch_rbStation2Station" type="radio" name="ctl00$MainContentPlaceHolder$ucSearch$catalog" value="rbStation2Station" onclick="ChangeCatalog(1);" />站站查询</label>
+        <label class="base_label"><input id="ctl00_MainContentPlaceHolder_ucSearch_rbTrainNumber" type="radio" name="ctl00$MainContentPlaceHolder$ucSearch$catalog" value="rbTrainNumber" checked="checked" onclick="ChangeCatalog(2);" />车次查询</label>
+        <label class="base_label"><input id="ctl00_MainContentPlaceHolder_ucSearch_rbStation" type="radio" name="ctl00$MainContentPlaceHolder$ucSearch$catalog" value="rbStation" onclick="ChangeCatalog(3);" />车站查询</label>
+    </div>
+    <div class="layoutfix" style="float:left;width:100%;">
+        <span id="ctl00_MainContentPlaceHolder_ucSearch_lblDepartureStation" class="depart">
+            <span class="base_warning">*</span>出发站
+            
+            <input type="text" name="" id="notice01" tabindex="2" class="input_txt" value="" />&nbsp;&nbsp;
+            
+            
+
+            
+            <input type="hidden" value="" id="from" name="from" />
+        </span>
+        <span id="ctl00_MainContentPlaceHolder_ucSearch_lblArrivalStation" class="arrive">
+            <span class="base_warning">*</span>到达站
+            <input type="text" id="notice02" tabindex="2" class="input_txt" value="" />&nbsp;&nbsp;
+            
+            <input type="hidden" id="to" name="to" value="" />
+        </span>
+        <span id="ctl00_MainContentPlaceHolder_ucSearch_lblNumber" class="number">
+            <span class="base_warning">*</span>车次 <input type="text" id="tn" value="G2" mod_notice_tip="请输入车次名" mod="notice" autocomplete="off" class="input_text" />&nbsp;&nbsp;
+        </span>
+        <span id="ctl00_MainContentPlaceHolder_ucSearch_lblStation" class="station">
+            <span class="base_warning">*</span>车站 <input type="text" id="notice03" mod_address_auto="false" value="" mod_notice_tip="中文/拼音/首字母" class="input_text" mod_address_suggest="" mod_address_source="station" mod="notice|address" mod_address_reference="station" autocomplete="off" style="color: gray;" />
+            <input type="hidden" value="" id="station" name="station" />&nbsp;&nbsp;
+        </span>        
+        <input type="submit" class="base_btns3" value="搜索" onclick="Search();return false;" />
+    </div>
+
+</div>
+
+<script src="http://webresource.c-ctrip.com/code/cquery/LABjs/LAB.js" charset="utf-8" type="text/javascript"></script>
+<script src="http://webresource.ctrip.com/ResTrainOnline/R2/TrainBooking/JS/private_seo.js" charset="utf-8" type="text/javascript"></script>
+<script src="http://webresource.c-ctrip.com/code/cquery/cQuery_110421.js" charset="utf-8" type="text/javascript"></script>
+<script src="http://webresource.c-ctrip.com/code/cquery/mod/adFrame-1.0_address-1.0_allyes-1.0_calendar-6.0_jmp-1.0_notice-1.0_tab-1.2_validate-1.1.js" charset="utf-8" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    $LAB.script({ src: "http://webresource.c-ctrip.com/code/cquery/mod/address-1.0.js", charset: "utf-8" }).wait()
+    var jsonFilterUrl = "http://webresource.ctrip.com/ResTrainOnline/R2/TrainBooking/JS/station_gb2312.js";
+
+    $.ready(function () {
+        $('#notice01').regMod('notice', '1.0', {
+            name: 'notice01',
+            selClass: "base_txtgray",
+            tips: "中文/拼音/首字母"
+        });
+        $('#notice02').regMod('notice', '1.0', {
+            name: 'notice02',
+            selClass: "base_txtgray",
+            tips: "中文/拼音/首字母"
+        });
+        $('#notice03').regMod('notice', '1.0', {
+            name: 'notice03',
+            selClass: "base_txtgray",
+            tips: "中文/拼音/首字母"
+        });
+        UI3.common.regAddress('#notice01', 'notice01', '#from', jsonFilterUrl, "");
+        UI3.common.regAddress('#notice02', 'notice02', '#to', jsonFilterUrl, "");
+        UI3.common.regAddress('#notice03', 'notice03', '#station', jsonFilterUrl, "");
+
+    });  
+</script>
+
+<script language="javascript" type="text/javascript">
+    var DEPARTURE = "#ctl00_MainContentPlaceHolder_ucSearch_lblDepartureStation";
+    var ARRIVAL = "#ctl00_MainContentPlaceHolder_ucSearch_lblArrivalStation";
+    var NUMBER = "#ctl00_MainContentPlaceHolder_ucSearch_lblNumber";
+    var STATION = "#ctl00_MainContentPlaceHolder_ucSearch_lblStation";
+    $.ready(function () {
+        ChangeCatalog(2);
+    });
+
+    function Search() {
+        var validateShow;
+        $.mod.load('validate', '1.1', function() {
+            var valid = $(document).regMod("validate", "1.1");
+            validateShow = function(obj, message) {
+                valid.method("show", { $obj: obj, data: message, removeErrorClass: true, hideEvent: "blur", isFocus: true });
+            };
+        });
+        var baseUrl = "";
+
+        if ($("#ctl00_MainContentPlaceHolder_ucSearch_rbStation2Station")[0].checked) {
+            if ($("#notice01")[0].value.trim() == "中文/拼音/首字母") {
+                validateShow($("#notice01"), "请输入出发城市名称");
+                return false;
+            }
+            if ($("#notice02")[0].value.trim() == "中文/拼音/首字母") {
+                validateShow($("#notice02"), "请输入到达站名称");
+                return false;
+            }
+            baseUrl = "http://trains.ctrip.com/TrainBooking" + "/TrainSchedule/Station2Station.aspx?from=" + $("#from")[0].value.trim() + "&to=" + $("#to")[0].value.trim() + "&fromCn=" + $("#notice01")[0].value.trim() + "&toCn=" + $("#notice02")[0].value.trim();
+        } else if ($("#ctl00_MainContentPlaceHolder_ucSearch_rbTrainNumber")[0].checked) {
+            var reg = /^[A-Za-z]?\d+$/ig;
+            if (!reg.test($("#tn")[0].value.trim())) {
+                validateShow($("#tn"), "请输入有效车次名");
+                return false;
+            }
+            baseUrl = "http://trains.ctrip.com/TrainSchedule" + "/" + $("#tn")[0].value.trim();
+        } else if ($("#ctl00_MainContentPlaceHolder_ucSearch_rbStation")[0].checked) {
+            if ($("#notice03")[0].value.trim() == "中文/拼音/首字母"||$("#notice03")[0].value.trim().length<=0) {
+                validateShow($("#notice03"), "请输入车站名称");
+                return false;
+            }
+            baseUrl = "http://trains.ctrip.com/TrainBooking" + "/TrainSchedule/Station.aspx?station=" + $("#station")[0].value.trim() + "&stationCn=" + $("#notice03")[0].value.trim();
+        }
+        if (baseUrl.trim().length != 0) {
+            location.href = baseUrl.trim();
+        }
+        return false;
+    }
+
+    function ChangeCatalog(catalog) {
+        $(NUMBER).css("display", "none");
+        $(STATION).css("display", "none");
+        $(DEPARTURE).css("display", "none");
+        $(ARRIVAL).css("display", "none");
+        switch(catalog)
+        {        
+        case 2:
+            $("#ctl00_MainContentPlaceHolder_ucSearch_rbTrainNumber")[0].checked = true;
+            $("searchBox").parentNode.className = "searchbox_seo searchbox_2 layoutfix";
+            $(NUMBER).css("display", "");
+            break;
+        case 3:
+            $("#ctl00_MainContentPlaceHolder_ucSearch_rbStation")[0].checked = true;
+            $("searchBox").parentNode.className = "searchbox_seo searchbox_3 layoutfix";
+            $(STATION).css("display", "");
+            break;
+        default:
+            $("#ctl00_MainContentPlaceHolder_ucSearch_rbStation2Station")[0].checked = true;
+            $("searchBox").parentNode.className = "searchbox_seo searchbox_1 layoutfix";
+            $(DEPARTURE).css("display", "");
+            $(ARRIVAL).css("display", "");
+            break;
+        }
+    }
+
+  
+</script>
+    <div class="base_main ">
+        <div class="base_b">
+            <div class="searchresult_box">
+                <div id="ctl00_MainContentPlaceHolder_pnlResult">
+	
+                    <div class="path_bar">
+                        您的位置：                    
+                    <a id="ctl00_MainContentPlaceHolder_hyTrainCatalog" href="http://trains.ctrip.com">高铁动车</a>
+                        &gt;
+                    <a id="ctl00_MainContentPlaceHolder_hyTrianSchedule" href="http://trains.ctrip.com/TrainSchedule/">火车时刻表</a>
+                        &gt;
+                    <a id="ctl00_MainContentPlaceHolder_hyDepartureCity" href="http://trains.ctrip.com/TrainSchedule/shanghaihongqiao/">上海虹桥火车时刻表</a>
+                        &gt;
+                    
+                        <h1>
+                            G2时刻表</h1>
+                    </div>
+                    <div class="s_hd">
+                        <span style="font-size:18px; font-weight:bold; font-family:verdana; margin-left:10px;"> 
+                            G2</span>
+                        <input name="ctl00$MainContentPlaceHolder$btBook" type="button" id="ctl00_MainContentPlaceHolder_btBook" style="visibility:hidden;display:inline;" value="立即预订" class="btn_booknow" onclick=" Show(this)" TrainInfo="0|G2" />
+                    </div>
+                    <div class="s_bd">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tb_result tb_inquiry">
+                            <caption>
+                                车次详情</caption>
+                            <colgroup>
+                                <col style="width: 100px;" />
+                                <col style="width: 100px;" />
+                                <col style="width: 100px;" />
+                                <col style="width: 100px;" />
+                                <col style="width: 100px;" />
+                                <col />
+                                <col style="width: 100px;" />
+                            </colgroup>
+                            <thead>
+                                <tr>
+                                    <th style="text-align: center;">车次/类型</th>
+                                    <th>始发站</th>
+                                    <th>终点站</th>
+                                    <th>发车时间</th>
+                                    <th>到达时间</th>
+                                    <th>全程时长</th>
+                                    <th>操作</th>
+                                
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="text-align: center;">
+                                        G2</td>
+                                    <td>
+                                        <a id="ctl00_MainContentPlaceHolder_hyDepartureStationName" href="http://trains.ctrip.com/TrainSchedule/shanghaihongqiao/">上海虹桥</a></td>
+                                    <td>
+                                        <a id="ctl00_MainContentPlaceHolder_hyArrivalStationName" href="http://trains.ctrip.com/TrainSchedule/beijingnan/">北京南</a></td>
+                                    <td>
+                                        09:00</td>
+                                    <td>
+                                        13:28</td>
+                                    <td>
+                                        4小时28分</td>
+                                    <td>
+                                       <div class='base_btns2'><a class='stop_a' href='http://trains.ctrip.com/TrainBooking/shanghaihongqiao-beijingnan'>预订</a></div>
+                                      </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tb_result tb_inquiry tb_gray">
+                            <colgroup>
+                                <col style="width: 25px;" />
+                                <col style="width: 120px;" />
+                                <col style="width: 120px;" />
+                                <col style="width: 120px;" />
+                                <col style="width: 100px;" />
+                                <col />
+                                <col style="width: 100px;" />
+                            </colgroup>
+                            <thead>
+                                <tr>
+                                    <th></th>
+                                    <th>停靠站序</th>
+                                    <th>站名</th>
+                                    <th>进站时间</th>
+                                    <th>发车时间</th>
+                                    <th>停留时间</th>
+                                    <th>操作</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                        <tr>
+                                            <td></td>
+                                            <td>
+                                                1</td>
+                                            <td>
+                                                <a id="ctl00_MainContentPlaceHolder_rptStopOverStation_ctl00_hyStationName" href="http://trains.ctrip.com/TrainSchedule/shanghaihongqiao/">上海虹桥</a></td>
+                                            <td>
+                                                ----
+                                            </td>
+                                            <td>
+                                                09:00
+                                            </td>
+                                            <td>
+                                                0分</td>
+                                           <td style="text-align: center;">
+                                                
+                                              
+                                                     </td>
+                                                  
+                                               
+                                        </tr>
+                                    
+                                        <tr>
+                                            <td></td>
+                                            <td>
+                                                2</td>
+                                            <td>
+                                                <a id="ctl00_MainContentPlaceHolder_rptStopOverStation_ctl01_hyStationName" href="http://trains.ctrip.com/TrainSchedule/nanjingnan/">南京南</a></td>
+                                            <td>
+                                                10:00
+                                            </td>
+                                            <td>
+                                                10:02
+                                            </td>
+                                            <td>
+                                                2分</td>
+                                           <td style="text-align: center;">
+                                                <div class='base_btns2'><a class='stop_a' href='http://trains.ctrip.com/TrainBooking/shanghaihongqiao-nanjingnan'>预订</a></div>
+                                              
+                                                     </td>
+                                                  
+                                               
+                                        </tr>
+                                    
+                                        <tr>
+                                            <td></td>
+                                            <td>
+                                                3</td>
+                                            <td>
+                                                <a id="ctl00_MainContentPlaceHolder_rptStopOverStation_ctl02_hyStationName" href="http://trains.ctrip.com/TrainSchedule/jinanxi/">济南西</a></td>
+                                            <td>
+                                                11:59
+                                            </td>
+                                            <td>
+                                                12:01
+                                            </td>
+                                            <td>
+                                                2分</td>
+                                           <td style="text-align: center;">
+                                                <div class='base_btns2'><a class='stop_a' href='http://trains.ctrip.com/TrainBooking/shanghaihongqiao-jinanxi'>预订</a></div>
+                                              
+                                                     </td>
+                                                  
+                                               
+                                        </tr>
+                                    
+                                        <tr>
+                                            <td></td>
+                                            <td>
+                                                4</td>
+                                            <td>
+                                                <a id="ctl00_MainContentPlaceHolder_rptStopOverStation_ctl03_hyStationName" href="http://trains.ctrip.com/TrainSchedule/beijingnan/">北京南</a></td>
+                                            <td>
+                                                13:28
+                                            </td>
+                                            <td>
+                                                13:28
+                                            </td>
+                                            <td>
+                                                0分</td>
+                                           <td style="text-align: center;">
+                                                <div class='base_btns2'><a class='stop_a' href='http://trains.ctrip.com/TrainBooking/shanghaihongqiao-beijingnan'>预订</a></div>
+                                              
+                                                     </td>
+                                                  
+                                               
+                                        </tr>
+                                    
+                            </tbody>
+                        </table>
+                        <div class="base_txtgray" style="display: none">数据由<a href="http://www.tieyou.com" target="_blank" rel="nofollow"><img alt="铁友网" src="http://pic.c-ctrip.com/railway/logo_99.png?111028.png" style="vertical-align: middle;" /></a> 提供，仅供参考。如有变动，请以当地铁路部门公布的数据为准。</div>
+                    </div>
+                    <div class="page">
+                        <ul class="page_list"></ul>
+                    </div>
+                
+</div>
+                
+                <div id="ctl00_MainContentPlaceHolder_divStartAndEndSchedule" class="more_ticket">
+                    <div class="box_content more_ticket_left">
+                        <h2>上海虹桥站出发的时刻表</h2>
+                        <ul id="ctl00_MainContentPlaceHolder_ulStartItem"></ul>
+                    </div>
+                    <div class="box_content">
+                        <h2>北京南站到达的时刻表</h2>
+                        <ul id="ctl00_MainContentPlaceHolder_ulEndItem"></ul>
+                    </div>
+                </div>
+                <div class="path_bar">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!--弹出框-->
+    <div>
+        <div id="divBook" style="width: 400px; display: none;" class="base_pop">
+            <div class="pop_hd"><a class="delete" href="###" onclick="CloseDialog()">&nbsp;</a><h3>预订车票</h3>
+            </div>
+            <div class="pop_bd">
+                <input type="hidden" id="hidTrainID" />
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tb_inquiry_search">
+                    <tr>
+                        <th style="width: 72px;">出发站</th>
+                        <td>
+                            <input type="text" id="txtDepartureStationName" class="input_text arrow02" readonly="readonly" onclick="ShowStationDiv(this)" ref="hidDepartureStationPinYin|hidDepartureStationID|hidDepartureStationSeq" />
+                            <input type="hidden" id="hidDepartureStationPinYin" />
+                            <input type="hidden" id="hidDepartureStationID" />
+                            <input type="hidden" id="hidDepartureStationSeq" />
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>到达站</th>
+                        <td>
+                            <input type="text" id="txtArrivalStationName" class="input_text arrow02" readonly="readonly" onclick="ShowStationDiv(this)" ref="hidArrivalStationPinYin|hidArrivalStationID|hidArrivalStationSeq" />
+                            <input type="hidden" id="hidArrivalStationPinYin" />
+                            <input type="hidden" id="hidArrivalStationID" />
+                            <input type="hidden" id="hidArrivalStationSeq" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>出发日期</th>
+                        <td>
+                            <input type="text" class="input_text" mod="notice|calendar" mod_notice_tip="yyyy-mm-dd" mod_calendar_rangestart="2018-2-22" style="color: gray;" autocomplete="off" id="dateObj" name="dateObj" mod_calendar_rangeend="2018-4-29" readonly="readonly" />
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>车次</th>
+                        <td>
+                            <input type="text" class="input_text" id="txtTrainNumber" mod="notice" mod_notice_tip="请输入高铁动车的车次编号" readonly="readonly" style="color: gray;" /></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>&nbsp;<span id="spanError"></span></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td style="height: 48px;">
+                            <input name="searchTicket" type="button" value="预订车票" class="base_btns4" onclick="BookSubmit()" /></td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="divStationControl"></div>
+    
+    <div class="base_side">
+        
+<div class="railway_box">
+	<div class="railway_box_hd"><h3>常见问题</h3></div>
+	<ul class="txt_list">
+
+		<li><a href="http://trains.ctrip.com/TrainBooking/Tips/QA2.htm" rel="nofollow" target="_blank" rel="nofollow">时刻表中的数据是准确的吗</a></li>
+		<li><a href="http://trains.ctrip.com/TrainBooking/Tips/QA3.htm" rel="nofollow" target="_blank" rel="nofollow">什么是代购</a></li>
+		<li><a href="http://www.lvping.com/qa-d0-i1200002-TrainTravel.html" target="_blank" rel="nofollow">火车知识问答</a></li>
+	</ul>
+</div>
+
+
+
+        
+		<div class="railway_box" style="display:none">
+			<div class="railway_box_hd"><h3>上海虹桥特价机票</h3></div>
+
+			<ul class="txt_list price_list">
+			    
+			</ul>
+		</div>
+        
+		<div class="railway_box" style="display:none">
+			<div class="railway_box_hd"><h3>上海虹桥附近酒店</h3></div>
+
+			<ul class="txt_list price_list">
+			    
+			</ul>
+		</div>
+        
+		<div class="railway_box" style="display:none">
+			<div class="railway_box_hd"><h3>北京南附近酒店</h3></div>
+
+			<ul class="txt_list price_list">
+			    
+			</ul>
+		</div>
+        <a class="link_ad" href="http://www.tieyou.com" target="_blank" rel="nofollow" style="display: none">
+            <img src="http://pic.c-ctrip.com/railway/logo_99_big.png?111027.png" alt="铁友网" /></a>
+        <a href="http://www.ctrip.com/community/ue/feedback.asp" target="_blank" rel="nofollow" class="link_online_qa2">意见反馈</a>
+    </div>
+    <div class="seo_box">
+        <div>
+            <h3>携程火车票官网</h3>
+            提供<a href="http://trains.ctrip.com/">火车票网上订票</a>服务，您也可进行<a href="http://trains.ctrip.com/TrainSchedule/">火车时刻表</a>查询,
+            <a href="http://trains.ctrip.com/TrainSchedule/shanghaihongqiao/">上海虹桥火车时刻表</a>，以及更多上海虹桥火车时刻表相关信息
+        </div>
+        <div >
+            <strong>热门导航:</strong>
+            <a href="http://trains.ctrip.com/piaojia/">火车票价查询</a>
+            <a href="http://trains.ctrip.com/hot-schedule/">城市火车时刻表</a>
+            <a href="http://trains.ctrip.com/hot-line/">火车线路</a>
+            <a href="http://trains.ctrip.com/hot-lines-schedule/">火车线路时刻表</a>
+            <a href="http://trains.ctrip.com/checi/">车次查询</a>
+            <a href="http://trains.ctrip.com/huochezhan/">火车站查询</a>
+            <a href="http://trains.ctrip.com/sitemap.html">火车票网站地图</a>
+        </div>
+        <div>
+            <strong>上海虹桥火车票工具：</strong>
+            <a href="http://trains.ctrip.com/TrainBooking/Shanghaihongqiao/">上海虹桥火车票</a>
+            <a href="http://trains.ctrip.com/TrainSchedule/Shanghaihongqiao/">上海虹桥火车时刻表</a>
+            <a href="http://trains.ctrip.com/TrainSchedule/Shanghaihongqiao/gaotie/">上海虹桥高铁时刻表</a>
+            <a href="http://trains.ctrip.com/TrainSchedule/Shanghaihongqiao/dongche/">上海虹桥动车时刻表</a>
+            
+            <a id='travle' target='_blank'></a><a id='strategy' target='_blank'></a><a id='ticket' target='_blank'></a><a id='hotel' target='_blank'></a>
+        </div>
+            
+
+<div>
+    <strong>热门火车线路：</strong>
+    
+            <a href="http://trains.ctrip.com/TrainBooking/Dalian-Harbin/">
+                大连到哈尔滨火车</a>
+            <a href="http://trains.ctrip.com/TrainBooking/Wulumuqi-Xian/">
+                乌鲁木齐到西安火车</a>
+            <a href="http://trains.ctrip.com/TrainBooking/Harbin-Beijing/">
+                哈尔滨到北京火车</a>
+            <a href="http://trains.ctrip.com/TrainBooking/Kuerle-Xian/">
+                库尔勒到西安火车</a>
+            <a href="http://trains.ctrip.com/TrainBooking/Beijing-Chongqing/">
+                北京到重庆火车</a>
+</div>
+<div>
+    <strong>火车票代售点：</strong>
+    
+            <a href="http://trains.ctrip.com/daishoudian/Changsha/">
+                长沙火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Liaocheng/">
+                聊城火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Wulumuqi/">
+                乌鲁木齐火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Xiangtan/">
+                湘潭火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Shantou/">
+                汕头火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Nantong/">
+                南通火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Xinxiang/">
+                新乡火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Xining/">
+                西宁火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Handan/">
+                邯郸火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Bengbu/">
+                蚌埠火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Tianjin/">
+                天津火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Guiyang/">
+                贵阳火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Mudanjiang/">
+                牡丹江火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Nanchang/">
+                南昌火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Beijing/">
+                北京火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Kunming/">
+                昆明火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Quanzhou/">
+                泉州火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Wuxi/">
+                无锡火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Qinhuangdao/">
+                秦皇岛火车票代售点</a>
+            <a href="http://trains.ctrip.com/daishoudian/Huhehaote/">
+                呼和浩特火车票代售点</a>
+</div>
+<div>
+    <strong>火车票预售期：</strong>
+    
+            <a href="http://trains.ctrip.com/yushouqi/Changsha/">
+                长沙火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Tianjin/">
+                天津火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Xiamen/">
+                厦门火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Kunming/">
+                昆明火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Kunming/">
+                昆明火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Jilin/">
+                吉林火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Yichang/">
+                宜昌火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Wuhan/">
+                武汉火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Liuzhou/">
+                柳州火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Handan/">
+                邯郸火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Tianjin/">
+                天津火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Taian/">
+                泰安火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Nanchang/">
+                南昌火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Changzhou/">
+                常州火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Fuyang/">
+                阜阳火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Fuyang/">
+                阜阳火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Nanning/">
+                南宁火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Shenzhen/">
+                深圳火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Jilin/">
+                吉林火车票预售期</a>
+            <a href="http://trains.ctrip.com/yushouqi/Hefei/">
+                合肥火车票预售期</a>
+</div>
+
+    </div>
+    <script type="text/javascript">
+        //document.title = "";
+        //document.getElementsByTagName("meta")[2].content = "";
+        //document.getElementsByTagName("meta")[1].content = "";
+
+        //edit by pinellia 解决js  error
+        //ctl00_MainContentPlaceHolder_pnlNoResult  服务端控件  有的时候 后台设置visiable=false 的时候，前台就找不到这个元素，就爆js error
+        if (document.getElementById("ctl00_MainContentPlaceHolder_pnlNoResult")) {
+            document.getElementById("ctl00_MainContentPlaceHolder_pnlNoResult").innerHTML = "<strong>很抱歉，没有找到G2的列车信息。</strong>";
+        }
+    </script>
+    <script language="javascript" type="text/javascript">
+        var S2S_URL = "";
+        var TrainNumber_URL = "";
+        var Station_URL = "";
+
+        var TrainBookingBaseUrl = "http://trains.ctrip.com/TrainBooking";
+        QUICK_BOOKING = "1";
+
+        var ResultTitle = {
+            "dStr": "发车时间",
+            "aStr": "到达时间",
+            "tStr": "行车时间",
+            "dialogDStr": "选择出发站",
+            "dialogAStr": "选择到达站",
+            "alertTips1": "请选择出发站",
+            "alertTips2": "请选择到达站",
+            "alertTips3": "请选择出发日期",
+            "alertTips4": "很抱歉,该路段或日期暂不提供预订服务",
+            "alertTips5": "出发站或到达站填写有误",
+            "dialogTitle": "请从下列列表中选择"
+        };
+
+
+        function Show(obj) {
+            var trainInfo = obj.$getPara('TrainInfo');
+            var trainID = trainInfo[0];
+            var trainNumber = trainInfo[1];
+            $("txtTrainNumber").value = trainNumber;
+            $("hidTrainID").value = trainID;
+            CreateDialog(trainNumber);
+        }
+
+
+        var seoDCityName = '';
+        var seoDCityEName = '';
+        window.onload = function () {
+            UI2.Common.appendSeo(seoDCityName, seoDCityEName, "travle", "strategy", "ticket", "hotel");
+        }
+    </script>
+
+            </form>
+        </li>
+    </ul>
+    <div id="base_ft">
+  <p><a href="http://pages.ctrip.com/public/sitemap/sitemap.htm" target="_blank" title="网站导航">网站导航</a>&#xA0;|&#xA0;<a href="http://hotels.ctrip.com/jiudian/" target="_blank" title="宾馆索引">宾馆索引</a>&#xA0;|&#xA0;<a href="http://flights.ctrip.com/booking/hot-city-flights-sitemap.html " target="_blank" title="机票索引">机票索引</a>&#xA0;|&#xA0;<a href="http://pages.ctrip.com/public/sitemap/dj.html" title="旅游索引">旅游索引</a>&#xA0;|&#xA0;<a href="http://ct.ctrip.com/crptravel/sitemap.html" title="商旅索引">商旅索引</a>&#xA0;|&#xA0;<a title="攻略索引" href="http://you.ctrip.com/sitemap/">攻略索引</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/ctripab/abctrip.htm" target="_blank" title="关于携程">关于携程</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201201/other/qygm/index.html" title="企业公民">企业公民</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" title="诚聘英才" href="http://job.ctrip.com/">诚聘英才</a>&#xA0;|&#xA0;<a rel="nofollow" title="智慧旅游" href="http://you.ctrip.com/Intelligence.html">智慧旅游</a>&#xA0;
+      |&#xA0;<a rel="nofollow" target="_blank" href="http://u.ctrip.com/" title="分销联盟">分销联盟</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/dlhz.htm" title="代理合作">代理合作</a>&#xA0;|&#xA0;<a target="_blank" href="http://ct.ctrip.com" title="企业商旅">企业商旅</a>&#xA0;|&#xA0;<a target="_blank" href="http://ct.ctrip.com/crptravel/default/landing" title="中小企业差旅">中小企业差旅</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/ctripad/adyw.htm" title="广告业务">广告业务</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/contact.htm" title="联系我们">联系我们</a></p>
+  <p><a rel="nofollow" href="http://pages.c-ctrip.com/cooperation/web/cooperation.html#ctm_ref=ctr_hp_btm_coop" target="_blank">加盟合作</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://join.easytrip.com/jiameng/#ctm_ref=ctr_def_btm_hsu_n_1" target="_blank" title="酒店加盟">酒店加盟</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://dst.ctrip.com/">目的地及景区合作</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="用户协议">用户协议</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/diploma/company.htm">营业执照</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/tour/ingroupline_pages.asp?folder=ingroup0904&amp;file=0177" title="旅游度假资质">旅游度假资质</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="https://insurance.ctrip.com/portal/index.aspx">保险代理</a>&#xA0;|&#xA0;<a target="_blank" href="http://pages.ctrip.com/public/link/ctrip_link.html">友情链接</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/copyright.htm" id="copyright">Copyright&copy;</a>,&#xA0;<a href="http://www.ctrip.com/">ctrip.com</a>. All rights reserved.&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">ICP证：沪B2-20050130</a></p>
+  <p class="gns"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010502002731"><i class="icon-gns"></i>沪公网备31010502002731号</a></p>
+  <div class="honour_wrap"><a href="http://www.xyzg.org/index.credit?action=companyList" class="honour1" target="_blank" rel="nofollow">信用评级</a><a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20110428175405415" title="工商亮照标识" class="honour2" target="_blank" rel="nofollow">上海工商</a><a href="http://search.cxwz.org/cert/l/CX20111018000615000623" title="诚信认证示范企业" class="honour3" target="_blank" rel="nofollow">诚信网站</a><a href="http://www.zx110.org/" class="honour4" target="_blank" rel="nofollow" title="征信网">网络社会征信网</a><a href="http://www.shjbzx.cn/" class="honour5" target="_blank" rel="nofollow" title="上海市互联网违法与违规信息举报中心">信息举报中心</a><a href="https://ss.knet.cn/verifyseal.dll?sn=e12061531010025926306977" class="honour6" target="_blank" rel="nofollow" title="可信网站">可信网站</a><a href="http://www.12377.cn/" class="honour8" title="违法和不良信息举报中心" target="_blank" rel="nofollow">违法和不良信息举报中心</a></div>
+</div><config id="timespan" value="20160329"></config><!--InstanceEnd name="position"--><script type="text/javascript">var globalConfig={AjaxUrl:'accounts.ctrip.com',PassportUrl:'passport.ctrip.com',H1:'https',H3:'my.ctrip.com',Lang:'gb2312'};</script><script type="text/javascript" src="//webresource.c-ctrip.com/ResCRMOnline/R1/pageheader/js/ActivityController.js?temp=1518078400" charset="utf-8"></script>
+</body>
+</html>
+
