@@ -1,0 +1,4 @@
+#ifndef COMMON_SOCKET_H
+#define COMMON_SOCKET_H
+
+#endif // COMMON_SOCKET_H
